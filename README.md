@@ -1,5 +1,5 @@
 Hello!
 
-A link is here [Deploy from GitHub](http://localhost:8170/content/deploy/)
+A link is here [Deploy from GitHub](https://content.api.stdlib.com/deploy@dev/)
 
 cool
